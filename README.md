@@ -1,4 +1,4 @@
 # Daan-Bosheuvel.io
 
-Todo:
-- 
+Dit is een website gemaakt in flutter. 
+Hier staat OS. de type practice
